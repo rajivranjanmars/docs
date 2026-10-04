@@ -1,3 +1,13 @@
+# Project Documentation
+
+A Mintlify documentation site containing navigation, MDX guides, component examples, and an OpenAPI API reference. The repository retains the original Mintlify starter instructions below.
+
+## Usage
+
+Preview the site with the Mintlify CLI from the directory containing `docs.json`.
+
+## Existing documentation
+
 # Mintlify Starter Kit
 
 Use the starter kit to get your docs deployed and ready to customize.
@@ -42,3 +52,7 @@ Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/sett
 ### Resources
 - [Mintlify documentation](https://mintlify.com/docs)
 - [Mintlify community](https://mintlify.com/community)
+
+## Author
+
+[rajivranjanmars](https://rajivranjana.in)

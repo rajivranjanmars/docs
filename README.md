@@ -55,4 +55,4 @@ Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/sett
 
 ## Author
 
-[rajivranjanmars](https://rajivranjana.in)
+[Rajiv Ranjan](https://rajivranjan.in)
